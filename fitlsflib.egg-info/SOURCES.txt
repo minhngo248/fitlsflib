@@ -1,0 +1,15 @@
+README.md
+setup.py
+./lib/__init__.py
+./lib/choose_line.py
+./lib/error.py
+./lib/extract_lsf.py
+./lib/normalize.py
+./src/__init__.py
+./src/gaussian_model.py
+./src/lsf_model.py
+./src/moffat_model.py
+fitlsflib.egg-info/PKG-INFO
+fitlsflib.egg-info/SOURCES.txt
+fitlsflib.egg-info/dependency_links.txt
+fitlsflib.egg-info/top_level.txt
